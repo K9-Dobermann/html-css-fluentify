@@ -111,7 +111,7 @@ p {
     color:#7fb802;
 }
 footer {
-    height: 500px;
+    height: 1500px;
     background-color: grey;
 
 }
@@ -300,7 +300,7 @@ li a:hover {
 } */
 .section6>.quinto1 {
     width:50%;
-    height:500px;
+    height:495px;
     background: #0D325A;
     float: left;
 }
@@ -331,4 +331,60 @@ li a:hover {
 }
 #forse2 {
     font-size: 18px;
+}
+.section7 {
+    /* height: 1500px;
+    background-color: black; */
+}
+.section7>.sesto1 {
+    width: 33%;
+    height: 300px;
+    float: left;
+    background-color:white;
+}
+.section7>.sesto2 {
+    width: 33%;
+    height: 300px;
+    float: left;
+    background-color: white;
+}
+.section7>.sesto3 {
+    width: 33%;
+    height: 300px;
+    float: left;
+    background-color: white;
+}
+#cappello {
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 340px;
+}
+#borsa {
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+#palace {
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+#stude {
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+}
+#vuoi {
+    margin-top:5px;
+}
+#fine1 {
+    border-top: 5px solid;
+    color:lightblue;
+}
+#fine2 {
+    border-top: 5px solid;
+    color:yellow;
+}
+#fine3 {
+    border-top: 5px solid;
+    color:green;
 }
