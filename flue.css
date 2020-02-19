@@ -10,15 +10,26 @@ header {
     background-size: cover;
     height: 500px;
     position: relative;
+    font-family: 'Tangerine', serif;
 
 }
 h2 {
     text-align: center;
     margin-top: 50px;
+    font-family: 'Tangerine', serif;
+
+}
+h3 {
+    text-align: center;
+    /* margin-top: 50px; */
+    font-family: 'Tangerine', serif;
+    color:#999999;
 }
 p {
     text-align: center;
     margin-top: 50px;
+    font-family: 'Tangerine', serif;
+    color:#999999;
 }
 .tastidestra {
     float: right;
@@ -52,6 +63,10 @@ p {
     /* color: green; */
 }
 
+hr {
+    margin-bottom: 40px;
+}
+
 
 
 ul {
@@ -74,6 +89,8 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: 'Tangerine', serif;
+
 }
 
 li a:hover {
@@ -88,28 +105,29 @@ li a:hover {
     background-color: red;
 }
 .section1>.pezzo1{
-    /* height: 50px; */
+    height:150px;
     background-color:#f9f9f9;
     text-align: center;
+    margin-top: -47px;
 }
 .section1>.pezzo2 {
     float: left;
     width: 33.3%;
     height:400px;
-    background-color: brown;
+    background-color: white;
     position: relative;
 }
 .section1>.pezzo3 {
     float: left;
     width: 33.3%;
     height:400px;
-    background-color: yellow;
+    background-color: white;
 }
 .section1>.pezzo4 {
     float: left;
     width: 33.3%;
     height:400px;
-    background-color: orange;
+    background-color: white;
 }
 
 .section2>.pezzo1{
