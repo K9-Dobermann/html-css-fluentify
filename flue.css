@@ -110,6 +110,11 @@ p {
 #green {
     color:#7fb802;
 }
+footer {
+    height: 500px;
+    background-color: grey;
+
+}
 
 hr {
     margin-bottom: 40px;
@@ -288,4 +293,42 @@ li a:hover {
     background-color: #7fb802;
     padding: 8px 25px;
     margin-left: 220px;
+}
+/* .section5 {
+    height: 1500px;
+    background-color: red;
+} */
+.section6>.quinto1 {
+    width:50%;
+    height:500px;
+    background: #0D325A;
+    float: left;
+}
+#pc {
+    height: 250px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 700px;
+}
+.section6>.quinto2 {
+    width: 50%;
+    /* height:400px; */
+    background: #0D325A;
+    float: left;
+}
+#forse {
+    position: absolute;
+    margin-top: 50px;
+    border-radius:10px;
+    color:white;
+    background-color: #7fb802;
+    padding: 8px 25px;
+    margin-left: 370px;
+}
+#forse1 {
+    font-size: 32px;
+    color:white;
+}
+#forse2 {
+    font-size: 18px;
 }
