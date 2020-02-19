@@ -221,8 +221,8 @@ li a:hover {
 }
 
 .section3 {
-    background-color: red;
-    height: 1500px;
+    /* background-color: red;
+    height: 1500px; */
 }
 .section3>.foto1 {
     background-color: #0d325a;
@@ -247,5 +247,45 @@ li a:hover {
     position: absolute;
     font-size: 18px;
     margin-left: 15%;
+}
 
+.section4>.terzo1 {
+    width: 50%;
+    /* height: 300px; */
+    float: left;
+    background-color:white;
+
+}
+.section4 {
+    position: relative;
+}
+.section4>.terzo2 {
+    width: 50%;
+    height: 300px;
+    float: left;
+    background-color: white;
+}
+#quasi {
+    font-family: 'Tangerine', serif;
+    font-size: 35px;
+    margin-top: 50px;
+}
+#molto {
+    font-size: 20px;
+}
+#speak {
+    position: absolute;
+    color:#a7d0f9;
+    margin-left: 482px;
+    margin-top: 99px;
+}
+
+#ultimo {
+    position: absolute;
+    margin-top: 100px;
+    border-radius:10px;
+    color:white;
+    background-color: #7fb802;
+    padding: 8px 25px;
+    margin-left: 220px;
 }
