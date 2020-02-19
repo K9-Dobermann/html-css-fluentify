@@ -4,7 +4,92 @@
     box-sizing: border-box;
 }
 
-a {
-    text-decoration: none;
-    color: green;
+header {
+    width: 100% ;
+    background-image: url("img/vecchibordino.jpg");
+    background-size: cover;
+    height: 500px;
+    position: relative;
+
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.tastidestra {
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+ #stemmino {
+     position: absolute;
+     margin-left: -7%;
+ }
+ #faccina {
+     height: 100px;
+     width: 100px;
+     position: absolute;
+     margin-left: 0;
+ }
+ #scarpe {
+     height: 150px;
+    margin-left: 50%;
+     /* position: absolute; */
+ }
+
+ul {
+  list-style-type: none;
+  padding: 20;
+  overflow: hidden;
+  background-color: #0D325A;
+  margin-left: 20%;
+  width: 40%;
+  display: inline-block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.section1 {
+    height: 500px;
+    background-color: red;
+}
+.section1>.pezzo1{
+    /* height: 50px; */
+    background-color:#f9f9f9;
+    text-align: center;
+}
+.section1>.pezzo2 {
+    float: left;
+    width: 33.3%;
+    height:400px;
+    background-color: brown;
+    position: relative;
+}
+.section1>.pezzo3 {
+    float: left;
+    width: 33.3%;
+    height:400px;
+    background-color: yellow;
+}
+.section1>.pezzo4 {
+    float: left;
+    width: 33.3%;
+    height:400px;
+    background-color: orange;
 }
