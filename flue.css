@@ -21,6 +21,15 @@ header {
     font-size: 50px;
     margin-left: 15%;
 }
+.lezioni {
+    margin-top: 200px;
+    font-family: 'Tangerine', serif;
+    position: absolute;
+    font-size: 40px;
+    margin-left: 15%;
+    color:white;
+}
+
 
 h2 {
     text-align: center;
@@ -65,6 +74,9 @@ p {
     color:white;
     background-color: #7fb802;
     padding: 8px 25px;
+}
+#giallo {
+    color:#f8b71c;
 }
 
  #stemmino {
@@ -206,4 +218,34 @@ li a:hover {
     height: 150px;
     padding-top:55px;
     padding-left: 130px;
+}
+
+.section3 {
+    background-color: red;
+    height: 1500px;
+}
+.section3>.foto1 {
+    background-color: #0d325a;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.section3>.foto2 {
+    width: 50%;
+    height: 500px;
+    float: right;
+    background-color: #0d325a;
+}
+#occhiali {
+    height: 400px;
+   /* S */
+}
+.sessioni {
+    color:#999999;
+    margin-top: 280px;
+    font-family: 'Tangerine', serif;
+    position: absolute;
+    font-size: 18px;
+    margin-left: 15%;
+
 }
