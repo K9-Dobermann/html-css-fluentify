@@ -10,12 +10,12 @@ header {
     background-size: cover;
     height: 500px;
     position: relative;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
 
 }
 #inglese {
     margin-top: 200px;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     color:white;
     position: absolute;
     font-size: 50px;
@@ -23,7 +23,7 @@ header {
 }
 .lezioni {
     margin-top: 200px;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     position: absolute;
     font-size: 40px;
     margin-left: 15%;
@@ -34,19 +34,19 @@ header {
 h2 {
     text-align: center;
     margin-top: 50px;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
 
 }
 h3 {
     text-align: center;
     /* margin-top: 50px; */
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     color:#999999;
 }
 p {
     text-align: center;
     margin-top: 50px;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     color:#999999;
 }
 #facciata {
@@ -141,7 +141,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Tangerine', serif;
+  /* font-family: 'Tangerine', serif; */
 
 }
 
@@ -243,7 +243,7 @@ li a:hover {
 .sessioni {
     color:#999999;
     margin-top: 280px;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     position: absolute;
     font-size: 18px;
     margin-left: 15%;
@@ -266,7 +266,7 @@ li a:hover {
     background-color: white;
 }
 #quasi {
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     font-size: 35px;
     margin-top: 50px;
 }
@@ -360,7 +360,7 @@ li a:hover {
     margin-left: 230px;
 }
 #stude {
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     font-size: 25px;
 }
 #vuoi {
@@ -389,7 +389,7 @@ footer {
     background-color: #0f335a;
 }
 #faq {
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     font-size: 25px;
     margin-left: -50%;
     padding-top: 20px;
@@ -397,7 +397,7 @@ footer {
 #fb {
     margin-top: 1%;
     margin-left: -52%;
-    font-family: 'Tangerine', serif;
+    /* font-family: 'Tangerine', serif; */
     font-size: 20px;
 
 }
