@@ -89,7 +89,7 @@ p {
      position: absolute;
      margin-left: 0;
  }
- #scarpe {
+ .scarpe {
      height: 150px;
     margin-left: 50%;
      /* position: absolute; */
@@ -359,11 +359,11 @@ li a:hover {
     margin-top: 20px;
     margin-left: 230px;
 }
-#stude {
+.stude {
     /* font-family: 'Tangerine', serif; */
     font-size: 25px;
 }
-#vuoi {
+.vuoi {
     margin-top:5px;
 }
 #fine1 {
@@ -424,11 +424,12 @@ footer {
       width: 40%;
 
 }
-#gesu2 {
+
+#gesu >li {
     float: right;
     column-width: 200px;
     column-gap: 30px;
 }
-#gesu3 {
+.finaccia >h2 {
     color:white;
 }
